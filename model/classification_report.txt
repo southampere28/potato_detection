@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      Normal       0.96      0.96      0.96        26
+   Defective       0.97      0.97      0.97        31
+
+    accuracy                           0.96        57
+   macro avg       0.96      0.96      0.96        57
+weighted avg       0.96      0.96      0.96        57
+
+Cross-validation scores: [0.97777778 0.97777778 1.         0.97777778 1.        ]
+Average CV score: 0.9866666666666667
